@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 
 import { Article, Brand, Cta, Feature, Navbar } from "./components";
 
