@@ -1,7 +1,7 @@
 import "./App.css";
 import "./index.css";
 
-import { Article, Brand, Cta, Feature, Navbar } from "./components";
+import { Cta, Brand, Navbar } from "./components";
 
 import {
   Footer,
